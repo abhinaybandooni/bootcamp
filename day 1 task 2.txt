@@ -1,0 +1,4 @@
+Features may be added to Goibibo.com-
+1. Latest reviews of customers for Flights and Hotels will let customers choose from several options accordingly.
+2. Cab replacement:- Due to some reasons the customer might not be able to find out his/her cab. In that case, the ride gets cancelled. With the availability of this feature Goibibo can provide an alternative Cab to the customer without causing any trouble to them.
+3. Seat availability(Flights) notification - Sometimes it happens that a particular rider cancels its filght. Airlines looks for a rider and an average joe is in need of a flight. By enabling this feature, if a customer is interested in a specific flight. That customer will get an instant push-notification about any avalaible seat in the flight. There will be a time limit beyond which we can not cancel or book our flights.
